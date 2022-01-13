@@ -1,11 +1,11 @@
 # HowToSpinfoamAmplitude  
 
 
-In the notebook you can find the codes for the computation of the Δ₄ spinfoam amplitude.
+In the notebook there is the code for the Δ₄ spinfoam amplitude computation.
 
-The amplitudes are (also) stored in CSV format in their respective paths.
+The amplitudes are stored in CSV/JLD2 format.
 
-The EPRL vertices were computed with the *sl2cfoam-next* library: [sl2cfoam-next](https://github.com/qg-cpt-marseille/sl2cfoam-next).
+The EPRL vertex amplitudes have been computed with the *sl2cfoam-next* library: [sl2cfoam-next](https://github.com/qg-cpt-marseille/sl2cfoam-next).
 
 See also: [paper describing the library](https://arxiv.org/abs/2107.13952).
 
