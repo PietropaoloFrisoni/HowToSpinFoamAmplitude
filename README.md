@@ -1,6 +1,6 @@
 # HowToSpinfoamAmplitude  
 
-**This repository is intended as additional material and goes hand in hand with** [this paper](https://github.com/)
+**This repository is intended as additional material and goes hand in hand with** [this paper](https://github.com/).
 
 ![alt text](https://github.com/PietropaoloFrisoni/HowToSpinFoamAmplitude/blob/master/Pics/Triangulation.SVG?raw=true)
 
