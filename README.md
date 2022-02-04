@@ -1,9 +1,7 @@
 # HowToSpinfoamAmplitude  
 
+## Notebooks for the computation of the Δ4 spinfoam amplitude 
 
-**this space will be filled at the end**
-
-
-![alt text](https://github.com/PietropaoloFrisoni/HowToSpinFoamAmplitude/blob/master/Pics/Delta_4.SVG?raw=true)
+![alt text](https://github.com/PietropaoloFrisoni/HowToSpinFoamAmplitude/blob/master/Pics/triangulation.eps?raw=true)
 
 
