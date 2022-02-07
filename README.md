@@ -16,3 +16,4 @@ We also leave the *Mathematica* notebook used for some Fits and Plots, as well a
 In this case, Compute Canada's [Narval](https://docs.computecanada.ca/wiki/Narval/en) cluster was used (*SLURM* scheduler).
 
 We hope these tools are useful, and we wish you a lot of fun!
+
