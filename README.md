@@ -4,9 +4,9 @@
 
 ![alt text](https://github.com/PietropaoloFrisoni/HowToSpinFoamAmplitude/blob/master/Pics/Triangulation.SVG?raw=true)
 
-**This repository is intended as additional material and goes hand in hand with** [this paper](https://github.com/).
+**This repository is intended as additional material and goes hand in hand with** [this paper](https://arxiv.org/abs/2202.04360).
 
-In the two *Jupyter lab* notebooks there are the codes which show how to compute the EPRL Δ4 spinfoam triangulation.
+In the two *Jupyter* notebooks there are the codes which show how to compute the EPRL Δ4 spinfoam triangulation.
 The codes have been written and tested with the *julia 1.7.0* kernel.
 
 We employ the [sl2cfoam-next](https://github.com/qg-cpt-marseille/sl2cfoam-next) library for the EPRL vertex amplitude computation.
