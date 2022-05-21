@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: 'If you use this software, please cite it as below.'
+authors:
+    - family-names: Dona
+      given-names: Pietro
+      orcid: https://orcid.org/0000-0001-7341-0682
+    - family-names: Frisoni
+      given-names: Pietropaolo
+title: 'How-To spin foam amplitude'
+version: 1.0.0
+doi: TODO
+date-released: 2022-03-20
+url: https://github.com/PietropaoloFrisoni/HowToSpinFoamAmplitude
