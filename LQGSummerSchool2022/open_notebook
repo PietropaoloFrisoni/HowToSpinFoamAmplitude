@@ -1,0 +1,4 @@
+#!/bin/bash
+export JULIA_LOAD_PATH="/home/pdona/Dropbox/Talks/Loops22School/sl2cfoam-next/julia/:$JULIA_LOAD_PATH"
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/pdona/Dropbox/Talks/Loops22School/sl2cfoam-next/lib
+jupyter-lab

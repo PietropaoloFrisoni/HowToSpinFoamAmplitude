@@ -1,0 +1,2 @@
+#!/bin/bash
+jupyter nbconvert Lecture_NumericalMethods_SpinFoam.ipynb --to slides --post serve 
